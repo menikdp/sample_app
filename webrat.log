@@ -1,0 +1,4 @@
+# Logfile created on 2015-01-08 19:00:46 +0700 by logger.rb/31641
+REQUESTING PAGE: GET /static_pages/home with {} and HTTP headers {}
+REQUESTING PAGE: GET /static_pages/home with {} and HTTP headers {}
+REQUESTING PAGE: GET /static_pages/help with {} and HTTP headers {}

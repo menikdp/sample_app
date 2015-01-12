@@ -4,3 +4,4 @@ This is the sample application for
 by [Michael Hartl](http://michaelhartl.com/).
 
 This sample made by [menikdp](http://menikdp.github.io).
+This sample_app using Rails 3 and Ruby 1.9.3
