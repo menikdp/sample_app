@@ -21,7 +21,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem 'capybara'
+
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
@@ -45,4 +45,6 @@ end
 group :test do
 gem 'rspec', '2.4.0'
 gem 'webrat', '0.7.1'
+gem 'capybara' #, '1.1.2'
+gem 'launchy', '2.1.0'
 end
